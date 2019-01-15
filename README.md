@@ -7,7 +7,7 @@ Ce Gemfile contient les gems du jour :
 - gem 'rspec'
 J'ai lancé un $ bundle install pour installer les gems dans le repo, puis j'ai initialisé Rspec avec $ rspec --init avant de créer le dossier lib dans mon repo ! 
 
-#Informations : 
+# Informations : 
 
 Pour trouver une gem tu n'as qu'à aller sur RubyGems.org ou sur GitHub.
 
@@ -26,7 +26,7 @@ Tout fichier Ruby dans le dossier pourra utiliser les gems mentionnées en écri
 
 Annuaire officiel : https://rubygems.org/
 
-#Rubocop (le fichier.yml est juste en plus et permet 
+# Rubocop (explication du fichier.yml du repo)
 
 La gem Rubocop te permet de faire relire ton code par un robot. Après l'avoir installé avec $ gem install rubocop, va dans le dossier que tu souhaites qu'il analyse et tape $ rubocop. 
 
